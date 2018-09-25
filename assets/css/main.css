@@ -1,0 +1,52 @@
+body, html {
+    height: 100%
+}
+
+.headline {
+    color: white;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("/assets/images/star-wars-starburst-hyper-space-effect_rse18xtu__F0000.png");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    align-content: center;
+}
+
+.column {
+    align-content: center;
+}
+
+.row {
+    align-content: center;
+}
+
+.col-xs {
+    background-color: black;
+    color: yellow;
+    width: 200px;
+}
+
+.card-block {
+    width: 200px;
+}
+
+.col-3 {
+    font-size: 20px;
+    font-weight: bold; 
+    color: yellow;
+    width: 200px;
+}
+.card-text {
+    text-align: center;
+}
